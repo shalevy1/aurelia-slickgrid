@@ -167,7 +167,7 @@
     "url-loader": "0.5.8",
     "vinyl-fs": "^2.4.3",
     "wait-on": "2.0.2",
-    "webpack": "3.5.5",
+    "webpack": "5.94.0",
     "webpack-dev-server": "^2.11.2"
   },
   "engines": {
